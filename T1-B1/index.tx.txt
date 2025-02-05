@@ -1,0 +1,23 @@
+<!DOCTYPE html> <!-- - método, indica ao navegador qual versão do html eu to usando. Na versão anterior, precisava indicar 'html4'. No 5 não precisa mais.-->
+
+
+<html lang= "pt-br" > <!-- - tag principal de abertura
+	atributo de linguagem/idioma, indica ao navegador a linguagem do documento. Normalmente é configurado em inglês, por isso precisamos indicar.-->
+
+	<head> <!-- Cabeçalho - sinal de comentário-->
+		<meta charset= "UTF-8"> <!-- - codificação que se refere as caracteres (^, ~, ...) -->
+
+		<title> Hello World! </title> <!-- - é a única parte apresentado ao usuário na barra de navegação da página.-->
+
+	</head>
+	<body> <!-- - apresenta todo o conteúdo para o usuário.-->
+		<h1> Hello World! </h1> <!-- - categorias de título, de 1 a 6, onde vai do maior para o menor.-->
+		<h2> Hello World! </h2>
+		<h3> Hello World! </h3>
+		<h4> Hello World! </h4>
+		<h5> Hello World! </h5>
+		<h6> Hello World! </h6>
+	</body>
+
+
+</html> <!-- tag principal de fechamento -->

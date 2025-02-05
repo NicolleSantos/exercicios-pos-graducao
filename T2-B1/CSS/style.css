@@ -1,0 +1,29 @@
+h1, h2{
+    color: white;
+    text-align: center;
+}
+.Hred{
+    color: red;
+}
+#h1verde{
+    color: green;
+}
+h3{
+    text-align: right;
+    color: yellow;
+    font-size: large;
+}
+p{
+    text-align: center;
+    color: tomato;
+    font-style: italic;
+    font-weight: bold;
+}
+
+div{
+    border: 5px solid gray;
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    padding: 30px;
+}
